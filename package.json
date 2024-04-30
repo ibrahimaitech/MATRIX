@@ -5,11 +5,11 @@
     "main": "guru.js",
     "type": "module",
     "scripts": {
-        "start": "node guru.js",
+        "start": "node matrix.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Guru",
+    "author": "MatrixCorder",
     "license": "",
     "dependencies": {
         "@hapi/boom": "^10.0.1",
