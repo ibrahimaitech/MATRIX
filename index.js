@@ -150,10 +150,37 @@ async function startnigg(phone) {
           await delay(2000)
           await negga.sendMessage(
             negga.user.id,
-            {
-              text: 'Hello there! 👋 \n\nDo not share your session id with anyone.\n\nPut the above in SESSION_ID var\n\nThanks for using GURU-BOT\n\n join support group:- https://chat.whatsapp.com/JY4R2D22pbLIKBMQWyBaLg \n',
+            {____________________________________
+              ╔════◇
+              ║『 •ᴀᴍᴀᴢɪɴɢ ʏᴏᴜ ᴄʜᴏᴏsᴇ• 』
+                            •𝛭𝛥𝑇𝑅𝛪𝛸-𝛥𝛪𓅓•
+              ║ OK YOUR SESSION IS READY COPY IT  
+              ║ AND HOST IT ON YOUR FAV PLATFORM. 
+              ✗ •ɴᴏᴛᴇ• ᴅᴏɴ'ᴛ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ
+              ✗ sᴇssɪᴏɴ ɪᴅ ᴛᴏ ᴀɴʏ-ᴏɴᴇ_
+              ╚════════════════════╝
+              ╔═════◇
+              ║ 『••• OWNER INFO •••』
+              ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@matrix_corder11464?si=W_3Idf_8DDKhgA5A
+              
+              ║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/Matrix_Corder11464 
+              
+              ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/MatrixCorder11464 
+              
+              ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/GD6femiiY2GD0fZYvnXkBv
+              
+              ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaRnPPRLCoWu2kOXk53a
+              
+              ║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/matrix_coder11464
+              
+              ║ 
+              ╚════════════════════╝ 
+               *©ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄𝚳𝚫𝚻𝚪𝚰𝚾🦋𝐂𝚯𝐃𝚵𝚪𓅓
+              ___________________________________
+              
+              Don't Forget To Give Star⭐ To My Repo
             },
-            { quoted: guru }
+            { quoted: MATRIX }
           )
 
           console.log('Connected to WhatsApp Servers')

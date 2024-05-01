@@ -2,7 +2,7 @@
     "name": "express-pair",
     "version": "1.0.0",
     "description": "",
-    "main": "guru.js",
+    "main": "matrix.js",
     "type": "module",
     "scripts": {
         "start": "node matrix.js",
