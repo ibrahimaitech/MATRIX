@@ -151,30 +151,7 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {____________________________________
-              ╔════◇
-              ║『 •ᴀᴍᴀᴢɪɴɢ ʏᴏᴜ ᴄʜᴏᴏsᴇ• 』
-                            •Panther Scanner•
-              ║ OK YOUR SESSION IS READY COPY IT  
-              ║ AND HOST IT ON YOUR FAV PLATFORM. 
-              ✗ •ɴᴏᴛᴇ• ᴅᴏɴ'ᴛ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ
-              ✗ sᴇssɪᴏɴ ɪᴅ ᴛᴏ ᴀɴʏ-ᴏɴᴇ_
-              ╚════════════════════╝
-              ╔═════◇
-              ║ 『••• OWNER INFO •••』
-              ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://www.youtube.com/@ibrahimaitech 
               
-              ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech
-             
-              ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
-              
-              ║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/ibrahimtechofficial1
-              
-              ║ 
-              ╚════════════════════╝ 
-               > Ibrahim Project
-              ___________________________________
-              
-              Don't Forget To Give Star⭐ To My Repo
             },
             { quoted: MATRIX }
           )
