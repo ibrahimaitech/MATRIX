@@ -151,34 +151,20 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {____________________________________
-              ╔════◇
-              ║『 •ᴀᴍᴀᴢɪɴɢ ʏᴏᴜ ᴄʜᴏᴏsᴇ• 』
-                            •𝛭𝛥𝑇𝑅𝛪𝛸-𝛥𝛪𓅓•
-              ║ OK YOUR SESSION IS READY COPY IT  
-              ║ AND HOST IT ON YOUR FAV PLATFORM. 
-              ✗ •ɴᴏᴛᴇ• ᴅᴏɴ'ᴛ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ
-              ✗ sᴇssɪᴏɴ ɪᴅ ᴛᴏ ᴀɴʏ-ᴏɴᴇ_
-              ╚════════════════════╝
-              ╔═════◇
-              ║ 『••• OWNER INFO •••』
-              ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@matrix_corder11464?si=W_3Idf_8DDKhgA5A
-              
-              ║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/Matrix_Corder11464 
-              
-              ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/MatrixCorder11464 
-              
-              ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/GD6femiiY2GD0fZYvnXkBv
-              
-              ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaRnPPRLCoWu2kOXk53a
-              
-              ║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/matrix_coder11464
-              
-              ║ 
-              ╚════════════════════╝ 
-               *©ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄𝚳𝚫𝚻𝚪𝚰𝚾🦋𝐂𝚯𝐃𝚵𝚪𓅓
-              ___________________________________
-              
-              Don't Forget To Give Star⭐ To My Repo
+              *𝑩𝑳𝑨𝑪𝑲 𝑷𝑨𝑵𝑻𝑯𝑬𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+*Follow this wachannel for bot updates*
+_https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+*For more info tap on the link below*
+_https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO_
+
+_𝑴𝒂𝒅𝒆 𝑩𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔_
             },
             { quoted: MATRIX }
           )
