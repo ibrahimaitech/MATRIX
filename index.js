@@ -151,20 +151,28 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {____________________________________
-              *𝑩𝑳𝑨𝑪𝑲 𝑷𝑨𝑵𝑻𝑯𝑬𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
-
-||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*Follow this wachannel for bot updates*
-_https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*For more info tap on the link below*
-_https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO_
-
-_𝑴𝒂𝒅𝒆 𝑩𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔_
+              ╔════◇
+              ║『 •ᴀᴍᴀᴢɪɴɢ ʏᴏᴜ ᴄʜᴏᴏsᴇ• 』
+                            •Panther Scanner•
+              ║ OK YOUR SESSION IS READY COPY IT  
+              ║ AND HOST IT ON YOUR FAV PLATFORM. 
+              ✗ •ɴᴏᴛᴇ• ᴅᴏɴ'ᴛ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ
+              ✗ sᴇssɪᴏɴ ɪᴅ ᴛᴏ ᴀɴʏ-ᴏɴᴇ_
+              ╚════════════════════╝
+              ╔═════◇
+              ║ 『••• OWNER INFO •••』
+              ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://www.youtube.com/@ibrahimaitech 
+              
+              ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech
+             
+              ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+              
+              ║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/ibrahimtechofficial1
+              
+              ║ 
+              ╚════════════════════╝ 
+               > Ibrahim Project
+              ___________________________________
               
               Don't Forget To Give Star⭐ To My Repo
             },
